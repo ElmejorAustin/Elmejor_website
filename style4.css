@@ -1,0 +1,154 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#fc{
+    width:100%;
+    height:150px;
+    /* background-color: blue; */
+}
+.history{
+    width:100%;
+    height:150px;
+    /* width:100%; */
+    /* height: 140px; */
+    background-image :url(../crest.jpg );
+    background-size: cover;
+    margin:auto;
+    font-size: 40px;
+    text-align: center;
+    color:white;
+}
+.history h1{
+    /* background-color: yellow; */
+    color: yellow;
+}
+.history a{
+    color: transparent;
+}
+#decade{
+  width: 100%; 
+  height: 100px;
+   /* background-color:  #0a0927;  */
+
+}
+header{
+    margin: 20px;
+    margin-left: 20px;
+}
+nav{
+ display: flex;
+}
+    
+nav ul{
+ list-style-type:none;
+}
+ul li{
+    float:left;
+    margin: 18px;
+    
+}
+
+ul li a{
+    text-decoration: none;
+    color:rgba(27, 5, 5, 0.59);
+    font-weight: 800;
+}
+ul li a:hover {
+    color:rgba(27, 5, 5, 0.59);
+    border-bottom: 3px solid rgba(39, 7, 7, 0.59);
+}
+ul hr .align-divider{
+    color:rgba(27, 5, 5, 0.59);
+    border-left:3px solid rgba(39, 7, 7, 0.59) ;
+}
+#facts1{
+    width:100%;
+    height: 500px;
+    /* background-color: beige; */
+}
+.decade{
+    width:100%;
+    height:100px;
+    font-size: 40px;
+    font-family:Calibri;
+    font-weight: 800;
+    text-align: center;
+    color: #0a0927;
+}
+.century{
+    width:32%;
+    height: 450px;
+    /* background-color:blueviolet;    */
+    float:left;
+    margin:5px;
+    padding:3px;
+}
+.century h1{
+    font-size: 20px;
+    text-align: center
+}
+.hen{
+    width:100%;
+    height: 400px; 
+}
+#facts2{
+    width:100%;
+    height: 500px;
+    /* background-color: aqua; */
+}
+.cruft h1{
+    font-size: 20px;
+    text-align: center;
+}
+.cruft{
+    width:32%;
+    height: 450px;
+    /* background-color:gainsboro;    */
+    float:left;
+    margin:5px;
+    padding:3px;
+}
+#facts3{
+    width:100%;
+    height: 500px;
+    /* background-color: slategray; */
+}
+.kubala{
+    width:32%;
+    height: 450px;
+    /* background-color:rgba(142, 207, 45, 0.807);    */
+    float:left;
+    margin:5px;
+    padding:3px; 
+}
+.kubala h1{
+    font-size: 20px;
+    text-align: center;
+}
+
+#facts4{
+    width:100%;
+    height: 500px;
+    /* background-color: rgba(139, 193, 247, 0.653); */
+}
+.golden{
+    width:32%;
+    height: 450px;
+    /* background-color:rgba(136, 87, 183, 0.659);    */
+    float:left;
+    margin:5px;
+    padding:3px;  
+}
+.golden h1{
+    font-size: 20px;
+    text-align: center;
+}
+#screen{
+    width:70%;
+    height: 300px;  
+}
+#screen2{
+    width:70%;
+    height: 300px;  
+} 
